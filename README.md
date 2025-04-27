@@ -1,5 +1,5 @@
 # Marketing Campaign Dashboard
-
+![Dashboard Preview](dashboard_preview.png)
 This is an interactive dashboard built using Python, Plotly Dash, and Pandas.
 
 ## Project Overview
