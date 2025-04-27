@@ -13,8 +13,9 @@ The dashboard analyzes marketing campaign performance, audience segmentation, ch
 ## Running Locally
 1. Clone this repository
 2. Install dependencies:
-3. Run the app:
-4. Visit [http://127.0.0.1:8050](http://127.0.0.1:8050) to view the dashboard
+3. Download Dataset: https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset 
+4. Run the app:
+5. Visit [http://127.0.0.1:8050](http://127.0.0.1:8050) to view the dashboard
 
 ---
 
